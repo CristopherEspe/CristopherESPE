@@ -1,4 +1,4 @@
-Hi there, I'm <a href="github.com">Cristopher Zambrano</a> :wave:
+Hi there, I'm <a href="/">Cristopher Zambrano</a> :wave:
 
 I am a junior developer, I am interested in learning web technologies, I use technologies for both Back End and Front End.
 

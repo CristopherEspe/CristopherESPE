@@ -7,7 +7,7 @@ I am a junior developer, I am interested in learning web technologies, I use tec
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=CristopherEspe&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dracula)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=CristopherEspe&show_icons=true"

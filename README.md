@@ -1,6 +1,6 @@
 <h2>Hi there, I'm <a href="#">Cristopher Zambrano</a> :wave:</h2>
 
-I am a junior developer interested in learning web technologies, I use technologies for both Back end and Front end, where I specialize in frameworks like Spring Boot 3 and Angular 17/18. Also, I am familiar with other technologies related to software development.</br>
+I am a junior developer interested in learning web technologies, I use technologies for both Back end and Front end, where I specialize in frameworks like Spring Boot 3 and Angular 17/18. Also, I am familiar with other technologies related to software development.<br />
 <h3>🚀 Favorite Frameworks</h3>
 
 <p align="left">
@@ -13,7 +13,7 @@ I am a junior developer interested in learning web technologies, I use technolog
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=java,gradle,ts,js,html,idea,vscode,github,docker,linux&perline=5" />
 </div>
-</br>
+<br />
 <!--![visitors](https://visitor-badge.glitch.me/badge?page_id=Web_grupo_3)-->
 
 <details>
